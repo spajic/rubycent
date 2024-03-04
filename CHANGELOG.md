@@ -1,3 +1,10 @@
+2.3.0
+=====
+
+* Update minimum version of `Faraday` to `>=2`
+* Remove dependency from `faraday_middleware`
+
+
 2.2.0
 =====
 
